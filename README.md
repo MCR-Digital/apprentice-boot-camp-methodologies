@@ -6,7 +6,7 @@
 
 ## Competencies, Behaviours and Knowledge units
 
-* TBC
+* Software Methodologies
 
 ## Resources 
 
