@@ -41,16 +41,8 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
  
 ## Slides
 
-The slides can be viewed from the link at the top of the repository.
+The slides can be found in the docs folder of the repository.
 
-## Exercises
-
-* TBC
-<!--- 
-* Setting up CI?
-* Branching and creating Pull Requests?
-* Resolving, tracing, telneting?
----> 
 
 # Boot Camp Summary
 
