@@ -39,8 +39,8 @@ We would like each apprentice to complete an individual project in their workpla
 
 This approach is designed to allow all the apprentices the chance to complete an end-to-end project that moves through each stage of the SDLC/covers all the Technical Competencies. The benefit of these projects are two-fold:
 
-to practice and cement skills learnt at bootcamps
-to include this in portfolio as evidence
+* to practice and cement skills learnt at bootcamps
+* to include this in portfolio as evidence
 
 #### Defining the Project Scope
 
@@ -48,10 +48,10 @@ The project has been introduced to the apprentices in this latest bootcamp - and
 
 There are a few requirements they must work to in defining their projects:
 
-Must include front-end and server-side aspects
-Must have a database
-Must have some form of UI
-Should be a reasonable scope (it should be able to be completed primarily as a learning exercise alongside other studies in 20% off-the-job time, so should not be anything overly complex/ambitious.)
+* Must include front-end and server-side aspects
+* Must have a database
+* Must have some form of UI
+* Should be a reasonable scope (it should be able to be completed primarily as a learning exercise alongside other studies in 20% off-the-job time, so should not be anything overly complex/ambitious.)
  
 The project can either be a business project or a completely personal project. The benefits of it being a business project are that it allows for stakeholders and possible team interaction - which helps cover the underpinning behaviours and the more business-y competencies, for their portfolio.
 
