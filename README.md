@@ -65,7 +65,7 @@ As a manager and/or mentor, please could you aid your apprentice in selecting a 
 
 <!--- For end of boot camp: Signposting for apprentices self study, further learning, online resources, practice etc. --->
 
-[BCS Course Textbook - Methodologies (https://drive.google.com/open?id=1-sdUo-Ra6CbSp0MPY4_nvMi8iPMDEN1T)]
+* (https://drive.google.com/open?id=1-sdUo-Ra6CbSp0MPY4_nvMi8iPMDEN1T "BCS Course Textbook - Methodologies")
  
 ## Slides
 
