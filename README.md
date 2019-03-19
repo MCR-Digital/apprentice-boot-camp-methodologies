@@ -29,9 +29,37 @@ None
 
 ### Follow-on tasks
 
-Organisation mentors should look to exercise the knowledge we’ve covered in the boot camp. Below are suggestions for tasks that would do this, but please use your own judgement to work out what to do. There is no need for anything to be returned to MD or the presenters—it’s just a learning exercise.
+#### The Task
 
-* TBC
+For the 2018/19 cohort, the schedule of bootcamps has been designed so that each bootcamp builds on the last - teaching skills and concepts relating to the next stage in the development lifecycle.
+
+We would like each apprentice to complete an individual project in their workplace, with each stage of the project being tackled after the relevant bootcamp has taught them the skills they need to carry out the activites of that stage (e.g. UX Design & Analysis, System & Database Design, Database/API Creation, etc.) 
+
+#### Benefits
+
+This approach is designed to allow all the apprentices the chance to complete an end-to-end project that moves through each stage of the SDLC/covers all the Technical Competencies. The benefit of these projects are two-fold:
+
+to practice and cement skills learnt at bootcamps
+to include this in portfolio as evidence
+
+#### Defining the Project Scope
+
+The project has been introduced to the apprentices in this latest bootcamp - and they have been given the task of coming up with a set of requirements for their own project and performing a splitting and slicing exercise to define a list of priorities (splitting and slicing techniques were covered on Day 2 of the Methodologies Bootcamp).
+
+There are a few requirements they must work to in defining their projects:
+
+Must include front-end and server-side aspects
+Must have a database
+Must have some form of UI
+Should be a reasonable scope (it should be able to be completed primarily as a learning exercise alongside other studies in 20% off-the-job time, so should not be anything overly complex/ambitious.)
+ 
+The project can either be a business project or a completely personal project. The benefits of it being a business project are that it allows for stakeholders and possible team interaction - which helps cover the underpinning behaviours and the more business-y competencies, for their portfolio.
+
+However, if a business project is selected - it should be something non-critical that can be spread over the term of 6-7 months- allowing the apprentice to cover each stage of the project in the weeks following each bootcamp. Examples of suitable projects are, updating the company intranet site, or developing an meeting-room booking system (examples are real projects apprentices have worked on for their companies).
+
+If there is no suitable project available - then a personal project may be used instead. Ideally this would be something that might realistically be used in the workplace or as part of the appretniceship programme (e.g. a learning dashboard/resource sharing system).
+ 
+As a manager and/or mentor, please could you aid your apprentice in selecting a suitable project.
 
 ## Further reading / learning resources
 
