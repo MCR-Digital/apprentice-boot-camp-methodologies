@@ -123,7 +123,13 @@ The slides can be found in the docs folder of the repository.
 
 # Briefing for organisation mentors
 
-* TBC
+This bootcamp has been designed around the syllabus of the Software Methodologies Exam and has introduced apprentices to many of the core concepts they will need to pass this exam. Further study will be required to ensure that the apprentices are able to achieve a pass grade, but this bootcamp will have laid solid foundations on which to build. 
+
+The exam syllabus focuses on the stages of the SDLC, Roles & Responsibilities within SD teams and how these operate at the various stages of SDLC, and effective team-working practices. 
+
+With the learning from this bootcamp, appretnices should be able to better identify opportunities to demonstrate their ability to operate effectively as part of a team. They should be able to recognise how the work they are doing relies on and impacts other roles. 
+
+A slicing and splitting activity has also been undertaken as part of this bootcamp, to demonstrate how to identify and prioritise tasks. This learning should be applied in defining the scope fo the individual projects detailed in the 'Follow-on Task' section above. 
 
 # Working with the slides
 
