@@ -19,7 +19,7 @@
 
 ## Mentors / Languages
  
-Two–three mentors required in addition to leads. These should be able to cover support for the required languages.
+Two-three mentors required in addition to leads. These should be able to cover support for the required languages.
 
 Several exercises (katas and code starters) will need to be ported to required languages.
 
@@ -75,27 +75,17 @@ The slides can be found in the docs folder of the repository.
 # Boot Camp Summary
 
 
-## Planned
-
-* Working with products and Refining requirements
-* Agile + related methodologies
-* Coupling and Cohesion
-* Revisit data store - Relational vs Not
-* CRC + Diagrams / OO Design
-* Composition vs Inheritance
-
-## Carried over
-
-* Test Doubles
-* Dependency Injection
-* Mocking frameworks
-* 2nd Tier of Testing Pyramid
-* Intro to Data Stores - Repo Pattern
-* Continuous Integration as a demo
-* CI practical
-* Branching / PRs
-* Trunk development vs branch development
-* How the internet works
+* The stages of the Software Development Life-Cycle
+* Kahoot quiz on SDLC
+* Software Development Methodologies
+* PaperLandia Agile/Waterfall exercise
+* Iterative Incremental Development
+* User Story Mapping (Wake-up exercise)
+* The Agile Scrum Framework
+* Tuckman's model of Team Dynamics
+* Team Communication exercise
+* Personalities and Perceptions
+* Insights Discovery personality exercise
 
 <!--- 
 
